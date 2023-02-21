@@ -10,4 +10,17 @@ public class ListNode
         this.val = val;
         this.next = next;
     }
+
+    public List<int> ToList()
+    {
+        var list = new List<int>();
+        var current = this;
+        while(current != null)
+        {
+            list.Add(current.val);
+            current = current.next;
+        }
+
+        return list;
+    }
 }
