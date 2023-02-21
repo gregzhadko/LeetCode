@@ -3,7 +3,6 @@
 public static class Solution {
     public static string LongestPalindrome(string s)
     {
-        Span<char>
         var chars = s.ToCharArray();
 
         var result = chars[0].ToString();
