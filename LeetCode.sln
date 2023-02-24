@@ -50,6 +50,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FourSum", "FourSum\FourSum.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchInsertPosition", "SearchInsertPosition\SearchInsertPosition.csproj", "{BBA2154E-0A42-4761-8FBE-A48985101654}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveElement", "RemoveElement\RemoveElement.csproj", "{527DFFCE-7A05-4063-ADC5-55A418271FA2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -156,5 +158,9 @@ Global
 		{BBA2154E-0A42-4761-8FBE-A48985101654}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BBA2154E-0A42-4761-8FBE-A48985101654}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BBA2154E-0A42-4761-8FBE-A48985101654}.Release|Any CPU.Build.0 = Release|Any CPU
+		{527DFFCE-7A05-4063-ADC5-55A418271FA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{527DFFCE-7A05-4063-ADC5-55A418271FA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{527DFFCE-7A05-4063-ADC5-55A418271FA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{527DFFCE-7A05-4063-ADC5-55A418271FA2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
