@@ -52,6 +52,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchInsertPosition", "Sea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveElement", "RemoveElement\RemoveElement.csproj", "{527DFFCE-7A05-4063-ADC5-55A418271FA2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivideTwoIntegers", "DivideTwoIntegers\DivideTwoIntegers.csproj", "{F755C467-65A5-401E-9BBE-7EB5A514CEB0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -162,5 +164,9 @@ Global
 		{527DFFCE-7A05-4063-ADC5-55A418271FA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{527DFFCE-7A05-4063-ADC5-55A418271FA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{527DFFCE-7A05-4063-ADC5-55A418271FA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F755C467-65A5-401E-9BBE-7EB5A514CEB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F755C467-65A5-401E-9BBE-7EB5A514CEB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F755C467-65A5-401E-9BBE-7EB5A514CEB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F755C467-65A5-401E-9BBE-7EB5A514CEB0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
