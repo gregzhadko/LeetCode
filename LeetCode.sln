@@ -60,6 +60,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenerateMatrix", "GenerateM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Candy", "Candy\Candy.csproj", "{DAE35093-DF65-483B-AF49-E03B79753D7A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSortedArray", "MergeSortedArray\MergeSortedArray.csproj", "{93956522-2CE7-45EC-9441-577F1850BD11}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -186,5 +188,9 @@ Global
 		{DAE35093-DF65-483B-AF49-E03B79753D7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DAE35093-DF65-483B-AF49-E03B79753D7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DAE35093-DF65-483B-AF49-E03B79753D7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93956522-2CE7-45EC-9441-577F1850BD11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93956522-2CE7-45EC-9441-577F1850BD11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93956522-2CE7-45EC-9441-577F1850BD11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93956522-2CE7-45EC-9441-577F1850BD11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
