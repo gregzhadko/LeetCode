@@ -64,6 +64,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSortedArray", "MergeSo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NaryTreeLevelOrderTraversal", "NaryTreeLevelOrderTraversal\NaryTreeLevelOrderTraversal.csproj", "{D4E09EC2-4C5E-4D38-9721-C841765149B0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidSudoku", "ValidSudoku\ValidSudoku.csproj", "{B073841D-8C56-4485-BDE8-FA15DC90EFCB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -198,5 +200,9 @@ Global
 		{D4E09EC2-4C5E-4D38-9721-C841765149B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4E09EC2-4C5E-4D38-9721-C841765149B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4E09EC2-4C5E-4D38-9721-C841765149B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B073841D-8C56-4485-BDE8-FA15DC90EFCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B073841D-8C56-4485-BDE8-FA15DC90EFCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B073841D-8C56-4485-BDE8-FA15DC90EFCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B073841D-8C56-4485-BDE8-FA15DC90EFCB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
